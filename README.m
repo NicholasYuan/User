@@ -9,8 +9,8 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 '''
 -配色
 Material Theme.sublime-package
--git hub 
-Github Tools.sublime-package
+-git
+
 -GitGutter
 
 -markdown edit
