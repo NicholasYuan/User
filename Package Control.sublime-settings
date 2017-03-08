@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"DocBlockr",
 		"Github Tools",
 		"MarkdownEditing",
 		"Material Theme",
